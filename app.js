@@ -16,7 +16,7 @@ handleMessageButton() {
 
   render() {
     console.log(this.state.messageIsActive)
-    const text = 'Lorem ipsum dolor sit amet,consectetur adipisicing elit.Vitae qui asperiores rem amet nulla fugiat ipsum inventore saepe minus similique.'
+    const text = 'Lorem ipsum dolor sit amet,consectetur adipisicing elit.Vitae qui asperiores rem amet nulla fugiat ipsum inventore saepe minus similique.Lorem ipsum dolor sit amet,consectetur adipisicing elit.Vitae qui asperiores rem amet nulla fugiat ipsum inventore saepe minus similique.Lorem ipsum dolor sit amet,consectetur adipisicing elit.Vitae qui asperiores rem amet nulla fugiat ipsum inventore saepe minus similique'
     return (
       <>
         <button onClick={this.handleMessageButton}>
